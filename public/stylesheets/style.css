@@ -5,6 +5,11 @@
 .nav-wrapper{
     background-color: #0b97c4;
 }
+
+#submit-button{
+    right:20px;
+}
+
 #submit-button{
     right:20px;
 }

@@ -31,7 +31,7 @@ var signup = require('./routes/signup');
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 console.log(__dirname);
-app.set('view engine', 'jade');
+app.set('view engine', 'ejs');
 
 // uncomment after placing your favicon in /public
 app.use(favicon(path.join(__dirname, '/public/images/favicomatic/favicon.ico')));
