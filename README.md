@@ -1,8 +1,8 @@
-Job Chaser 
+#Job Chaser 
 
-Our goal is to provide our clients with a place to research potential job opportunities and to record and keep track of possible outcomes.
+Job Chaser provides clients with a place to research potential job opportunities and to record and keep track of possible outcomes.
 
-We would like a user to be able to compare with others in order to land jobs. Comparing interview questions and mutual connections can be crucial with getting an offer.
+The goal is for a user to be able to compare with others in order to land jobs. Comparing interview questions and mutual connections can be crucial with getting an offer.
 
 | List of Technologies |
 | -------------------- |
