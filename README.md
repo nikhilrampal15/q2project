@@ -1,31 +1,21 @@
-# 2nd quarter project proposal 
+Job Chaser 
 
-## By: Nik, James, Ono
+Our goal is to provide our clients with a place to research potential job opportunities and to record and keep track of possible outcomes.
 
-> Who uses it?
-
-People trying to break into the tech industry and experienced professionals
-
-> What outputs? 
-
-We have decided to implement indeed.com's api along with glassdoor's in order to provide our users with job postings and job reviews during their career pursuit.
-
-> What input? 
-
-Our ideal client would input various information such as job title, company name, salary desired and location.
+We would like a user to be able to compare with others in order to land jobs. Comparing interview questions and mutual connections can be crucial with getting an offer.
 
 | List of Technologies |
 | -------------------- |
 | CSS                  |
 | HTML                 |
-| SASS                 |
+| Bcrypt               |
 | JQUERY               |
 | JAVASCRIPT           |
 | NODE.JS              |
 | PSQL                 |
-| SOCKET.IO            |
-| KNEX                 |
-| JADE                 |
+| EJS                  |
+| KNEX.JS              |
+| Material             |
 | EXPRESS              |
 | FOUNDATION           |
  
@@ -51,7 +41,5 @@ Our ideal client would input various information such as job title, company name
 | Personalized features for members                                           |
 | Reviews                                                                     |
 
-## Goals
 
-Our goal is to provide our clients with a place to research potential job opportunities and to record and keep track of possible outcomes.
-We would like a user to be able to compare with others in order to land jobs. Comparing interview questions and mutual connections can be crucial with getting an offer.
+
